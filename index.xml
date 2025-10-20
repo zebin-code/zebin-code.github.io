@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的全新 Hugo 网站</title>
+        <link>http://localhost:1313/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 20 Oct 2025 20:19:11 &#43;0800</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Mon, 20 Oct 2025 20:19:11 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[<h3 id="安装">安装</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">choco</span> <span class="n">install</span> <span class="n">hugo</span><span class="o">-</span><span class="n">extended</span>
+</span></span></code></pre></div><h1 id="相关网址">相关网址</h1>
+<p><a href="https://hugoloveit.com/zh-cn/theme-documentation-basics/" target="_blank" rel="noopener noreffer ">主题文档 - 基本概念 - LoveIt</a><a href="https://hugoloveit.com/zh-cn/theme-documentation-basics/" target="_blank" rel="noopener noreffer ">主题文档 - 基本概念 - LoveIt</a></p>
+<h1 id="版本兼容">版本兼容</h1>
+<blockquote>
+<p>这里选择 Lovelt分支0.3.0， hugo版本选择 0.145.</p></blockquote>]]></description>
+</item>
+</channel>
+</rss>
