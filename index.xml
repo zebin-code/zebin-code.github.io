@@ -1,4 +1,30 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>我的全新 Hugo 网站</title><link>http://example.org/</link><description>This is my cool site</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 20 Oct 2025 20:19:11 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>First_post</title><link>http://example.org/posts/first_post/</link><pubDate>Mon, 20 Oct 2025 20:19:11 +0800</pubDate><author>xxxx</author><guid>http://example.org/posts/first_post/</guid><description><![CDATA[<h3 id="安装">安装</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的全新 Hugo 网站</title>
+        <link>http://example.org/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 21 Oct 2025 14:44:37 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Test</title>
+    <link>http://example.org/posts/test/</link>
+    <pubDate>Tue, 21 Oct 2025 14:44:37 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://example.org/posts/test/</guid>
+    <description><![CDATA[<h3 id="测试">测试</h3>
+<blockquote>
+<p>一款强大的工具，可将 Claude Code 请求路由到不同的模型，并自定义任何请求。</p></blockquote>
+<blockquote>
+<p>现在你可以通过<a href="https://platform.iflow.cn/docs/api-mode" target="_blank" rel="noopener noreffer ">心流平台</a>免费使用<code>GLM-4.5</code>、<code>Kimi-K2</code>、<code>Qwen3-Coder-480B-A35B</code>、<code>DeepSeek v3.1</code>等模型。<br>
+你可以使用<code>ccr ui</code>命令在UI中直接导入<code>iflow</code>模板，值得注意的是心流限制每位用户的并发数为1，意味着你需要将<code>background</code>路由到其他模型。</p>]]></description>
+</item>
+<item>
+    <title>First_post</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Mon, 20 Oct 2025 20:19:11 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[<h3 id="安装">安装</h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">choco</span> <span class="n">install</span> <span class="n">hugo</span><span class="o">-</span><span class="n">extended</span>
 </span></span></code></pre></div><h1 id="相关网址">相关网址</h1>
 <p><a href="https://hugoloveit.com/zh-cn/theme-documentation-basics/" target="_blank" rel="noopener noreffer ">主题文档 - 基本概念 - LoveIt</a><a href="https://hugoloveit.com/zh-cn/theme-documentation-basics/" target="_blank" rel="noopener noreffer ">主题文档 - 基本概念 - LoveIt</a></p>
@@ -6,4 +32,7 @@
 <blockquote>
 <p>这里选择 Lovelt分支0.3.0， hugo版本选择 0.145.</p></blockquote>
 <h1 id="测试推送是否正常-111">测试推送是否正常 111</h1>
-<p>1111</p>]]></description></item></channel></rss>
+<p>1111</p>]]></description>
+</item>
+</channel>
+</rss>
